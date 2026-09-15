@@ -1,0 +1,7 @@
+# Исходники конфигурации 1С сохраняются в стабильном текстовом формате.
+*.xml text eol=lf
+*.bsl text eol=lf
+*.mxl text eol=lf
+*.os text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf

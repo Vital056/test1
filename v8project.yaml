@@ -1,0 +1,7 @@
+# Общая конфигурация проекта Unica.
+format: DESIGNER
+builder: DESIGNER
+source-set:
+  - name: main
+    type: CONFIGURATION
+    path: src

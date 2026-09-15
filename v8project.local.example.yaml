@@ -1,0 +1,10 @@
+# Скопируйте этот файл в v8project.local.yaml и укажите локальные пути.
+# v8project.local.yaml не коммитится в Git.
+workPath: .build/runtime
+infobase:
+  connection: 'File=C:\Path\To\Infobase'
+tools:
+  platform:
+    version: '8.3.27.x'
+    path: 'C:\Path\To\1cv8\bin'
+    strict: false

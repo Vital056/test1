@@ -1,0 +1,15 @@
+# Локальная файловая база 1С и её журналы не являются исходниками проекта.
+/1Cv8*.1CD
+/1Cv8*.cfl
+/1Cv8Log/
+
+# Локальные настройки, кэш и результаты сборки.
+/v8project.local.yaml
+/.build/
+/src/.build/
+/src/ConfigDumpInfo.xml
+/src/DumpFilesIndex.txt
+/build/
+
+# Служебный sidecar платформы в корне выгрузки.
+/ConfigDumpInfo.xml
